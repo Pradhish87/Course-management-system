@@ -11,9 +11,7 @@ It helps reduce manual work and improves productivity in educational institution
 
 * 👨‍💼 Admin can add, update, and delete courses
 * 🔍 Duplicate course validation (prevents repeated entries)
-* 👩‍🏫 Faculty can manage course materials
 * 👨‍🎓 Students can view and access courses
-* 🔐 User login system (Admin / Faculty / Student)
 * 📊 Organized data management
 
 ---
@@ -22,7 +20,6 @@ It helps reduce manual work and improves productivity in educational institution
 
 1. User logs into the system
 2. Admin manages courses and users
-3. Faculty uploads course materials
 4. Students access courses and track their learning
 
 ---
@@ -39,10 +36,9 @@ It helps reduce manual work and improves productivity in educational institution
 
 ## 🛠️ Technologies Used
 
-* Programming Language: Java / Python (update based on your project)
+* Programming Language: Java 
 * Database: MySQL / SQLite
-* Frontend: HTML, CSS (if used)
-* Tools: VS Code / Eclipse
+* Tools: Eclipse
 
 ---
 
